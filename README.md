@@ -1,6 +1,12 @@
 [Blog](https://leihsia.com/)
+
 [LinkedIn](https://www.linkedin.com/in/leihsia/)
+
 [X](https://x.com/LEIXIA9)
+
+[Hugging Face](https://huggingface.co/reallei)
+
+[WeChat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect) (Open only in WeChat)
 
 
 <!--
