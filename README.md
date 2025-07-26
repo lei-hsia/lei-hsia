@@ -1,4 +1,7 @@
-## Hi there 👋
+[Blog](https://leihsia.com/)
+[LinkedIn](https://www.linkedin.com/in/leihsia/)
+[X](https://x.com/LEIXIA9)
+
 
 <!--
 **lei-hsia/lei-hsia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
