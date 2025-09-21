@@ -1,14 +1,23 @@
 ## Hi 👋
 
-[Blog](https://leihsia.com/)
+| Blog | LinkedIn | X | HF | WeChat |
+|----------|----------|----------|----------|----------|
+|   [Blog](https://leihsia.com/)  |   [LinkedIn](https://www.linkedin.com/in/leihsia/) |  [X](https://x.com/LEIXIA9)  | [Hugging Face](https://huggingface.co/reallei) | [WeChat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect) <br> (Open only in WeChat) |
 
-[LinkedIn](https://www.linkedin.com/in/leihsia/)
 
-[X](https://x.com/LEIXIA9)
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-hsia)](https://githubfast.com/anuraghazra/github-readme-stats) | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lei-hsia&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact) |
 
-[Hugging Face](https://huggingface.co/reallei)
+![LeetCode Stats](https://leetcard.jacoblin.cool/reallei?theme=light&font=Noto%20Sans&ext=heatmap&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/lei0108?theme=light&font=Noto%20Sans&ext=contest&site=us)
 
-[WeChat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect) (Open only in WeChat)
+
+## Skills
+![skills](https://skillicons.dev/icons?i=py,java,cpp,go,rust,redis,cuda)
+
+## Editors
+![editors](https://skillicons.dev/icons?i=pycharm,clion,idea,vscode)
 
 
 <!--
