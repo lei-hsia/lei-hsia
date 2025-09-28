@@ -1,6 +1,6 @@
 ## Hi 👋
 
-| Blog | LinkedIn | X | HF | WeChat |
+| . | . | . | . | . |
 |----------|----------|----------|----------|----------|
 |   [Blog](https://leihsia.com/)  |   [LinkedIn](https://www.linkedin.com/in/leihsia/) |  [X](https://x.com/LEIXIA9)  | [Hugging Face](https://huggingface.co/reallei) | [WeChat Official Account](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect) <br> (Open only in WeChat) |
 
@@ -9,7 +9,7 @@
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-hsia)](https://githubfast.com/anuraghazra/github-readme-stats) | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lei-hsia&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact) |
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/reallei?theme=light&font=Noto%20Sans&ext=activity&site=cn)
+![LeetCode Stats](https://leetcard.jacoblin.cool/reallei?theme=light&font=Noto%20Sans&ext=heatmap&site=cn)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lei0108?theme=light&font=Noto%20Sans&ext=contest&site=us)
 
 
