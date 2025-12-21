@@ -2,7 +2,7 @@
 
 | [Blog](https://leihsia.com/)  |  [LinkedIn](https://www.linkedin.com/in/leihsia/) |  [Twitter](https://x.com/LEIXIA9) | [Hugging Face](https://huggingface.co/reallei)  |
 |----------|----------|----------|----------|
-|  [LC PRI](https://leetcode.cn/u/reallei/)  | [LC BCP](https://leetcode.cn/u/lei1217/)  | [LC US](https://leetcode.com/u/lei0108/) |[WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect)| 
+|  [clist1](https://clist.by/account/reallei@.cn/resource/leetcode.com/)  | [clist2](https://clist.by/account/lei1217@.cn/resource/leetcode.com/)  | [clist US](https://clist.by/account/lei0108@.com/resource/leetcode.com/) |[WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect)| 
 
 
 | .                                                                                                                                       | .                                                                                                                         |
