@@ -18,8 +18,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/reallei?theme=light&font=Noto%20Sans&ext=heatmap&site=cn)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/lei0108?theme=light&font=Noto%20Sans&ext=contest&site=us)
-![LeetCode Stats](https://leetcard.jacoblin.cool/lei1217?theme=light&font=Noto%20Sans&ext=activity&site=cn)
-
 
 
 <!--
