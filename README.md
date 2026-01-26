@@ -1,6 +1,6 @@
 ## Hi 👋
 
-| [Blog](https://leihsia.com/)  |  [LinkedIn](https://www.linkedin.com/in/leihsia/) |  [X1](https://x.com/LEIXIA9) | [HF](https://huggingface.co/reallei)  |
+| [Blog](https://leihsia.com/)  |  [LinkedIn](https://www.linkedin.com/in/leihsia/) | [LC](https://leetcode.com/u/lei0108/) | [HF](https://huggingface.co/reallei)  |
 |----------|----------|----------|----------|
 |  [clist1](https://clist.by/account/reallei@.cn/resource/leetcode.com/)  | [clist2](https://clist.by/account/lei0108@.com/resource/leetcode.com/)  | [X2]( https://x.com/LHsia97785) |[WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect)| 
 
