@@ -4,11 +4,7 @@
 |----------|----------|----------|----------|
 |  [clist1](https://clist.by/account/reallei@.cn/resource/leetcode.com/)  | [clist2](https://clist.by/account/lei0108@.com/resource/leetcode.com/)  | [X]( https://x.com/LHsia97785) |[WeChat](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQ5NDQ3Mg==&scene=124#wechat_redirect)| 
 
-
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api?username=lei-hsia)](https://githubfast.com/anuraghazra/github-readme-stats) | [![mxgxxx's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=lei-hsia&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=renyancheng&show_icons=true&locale=en&layout=compact) |
-
+                                                                                                                      
 ## Skills
 ![skills](https://skillicons.dev/icons?i=py,java,cpp,go,rust,redis,cuda)
 
